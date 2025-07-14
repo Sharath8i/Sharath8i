@@ -13,4 +13,4 @@ Java • Python • JavaScript • React • Node.js • MySQL
 - 🔗 [Another Project](https://github.com/yourrepo) — Short description
 
 ## 📊 GitHub Stats
-![Sharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sherindas&show_icons=true&theme=radical)
+![Sharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharath8i&show_icons=true&theme=radical)
