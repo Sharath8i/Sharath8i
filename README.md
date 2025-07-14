@@ -1,4 +1,4 @@
-# Hi there, I'm Sherin 👋
+# Hi there, I'm Sharath 👋
 
 ## 🚀 About Me
 - 💻 I'm a software developer passionate about clean code and performance
